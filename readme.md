@@ -6,3 +6,7 @@
   - [3. Introduction To Responsible AI](/learning/3.md)
   - [4. Responsible AI: Applying AI Principles with Google Cloud](/learning/4.md)
 
+
+- ## Building AI Agents
+
+  - [1. Build Your Own Cursor - Using Google's Gemini Model](/aiagents/1/1.md)
