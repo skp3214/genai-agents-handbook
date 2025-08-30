@@ -10,3 +10,7 @@
 - ## Building AI Agents
 
   - [1. Build Your Own Cursor - Using Google's Gemini Model](/aiagents/1/1.md)
+
+
+- ## Building RAG Applications
+  - [1. Chat with PDF using RAG](/RAG/chatwithpdf/readme.md)
