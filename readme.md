@@ -14,3 +14,7 @@
 
 - ## Building RAG Applications
   - [1. Chat with PDF using RAG](/RAG/chatwithpdf/readme.md)
+
+- ## Building Model Context Protocol ( MCP ) Server
+  - [1. MCP Server & Client Implementation](/mcp-servers/first/readme.md)
+
