@@ -9,3 +9,4 @@
 ### 02 - Core Fundamentals
 
 - [Prompting](/02-core-fundamentals/prompting.md)
+- [Function Calling](/02-core-fundamentals/function-calling.md)
