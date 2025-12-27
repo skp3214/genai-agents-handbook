@@ -10,3 +10,4 @@
 
 - [Prompting](/02-core-fundamentals/prompting.md)
 - [Function Calling](/02-core-fundamentals/function-calling.md)
+- [Fine Tuning](/02-core-fundamentals/fine-tuning-llms.md)
