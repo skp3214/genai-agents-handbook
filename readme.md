@@ -12,3 +12,7 @@
 - [Function Calling](/02-core-fundamentals/function-calling.md)
 - [Fine Tuning](/02-core-fundamentals/fine-tuning-llms.md)
 - [Demo in JavaScript : Build Your Own Cursor](/02-core-fundamentals/project.md)
+
+### 03 - AI Agents
+
+- [Introduction to Agents](/03-agents/intro-to-agents.md)
