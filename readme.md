@@ -17,3 +17,4 @@
 
 - [Introduction to Agents](/03-agents/intro-to-agents.md)
 - [Multi Agents System](/03-agents/multi-agents-system.md)
+- [Agent WorkFlow Patterns](/03-agents/agent-workflow-patterns.md)
