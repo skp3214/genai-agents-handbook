@@ -13,8 +13,9 @@
 - [Fine Tuning](/02-core-fundamentals/fine-tuning-llms.md)
 - [Demo in JavaScript : Build Your Own Cursor](/02-core-fundamentals/project.md)
 
-### 03 - AI Agents
+### 03 - AI Agents : Fundamental
 
 - [Introduction to Agents](/03-agents/intro-to-agents.md)
 - [Multi Agents System](/03-agents/multi-agents-system.md)
 - [Agent WorkFlow Patterns](/03-agents/agent-workflow-patterns.md)
+- [Agent Tools](/03-agents/agent-tools.md)
