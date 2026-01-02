@@ -19,3 +19,6 @@
 - [Multi Agents System](/03-agents/multi-agents-system.md)
 - [Agent WorkFlow Patterns](/03-agents/agent-workflow-patterns.md)
 - [Agent Tools](/03-agents/agent-tools.md)
+
+### 04 - AI Agents: Advance Topics
+- [Long Running Operations](/03-agents/lro.md)
