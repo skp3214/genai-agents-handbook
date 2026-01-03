@@ -22,3 +22,4 @@
 
 ### 04 - AI Agents: Advance Topics
 - [Long Running Operations](/03-agents/lro.md)
+- [Agent Sessions](/03-agents/agent-sessions.md)
