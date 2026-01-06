@@ -25,3 +25,4 @@
 - [Agent Sessions](/03-agents/agent-sessions.md)
 - [Agent Memory](/03-agents/agent-memory.md)
 - [Agent Observability](/03-agents/agent-observability.md)
+- [Agent Evaluation](/03-agents/agent-evaluation.md)
