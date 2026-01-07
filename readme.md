@@ -26,3 +26,4 @@
 - [Agent Memory](/03-agents/agent-memory.md)
 - [Agent Observability](/03-agents/agent-observability.md)
 - [Agent Evaluation](/03-agents/agent-evaluation.md)
+- [Agent2Agent Protocol](/03-agents/agent2agent.md)
