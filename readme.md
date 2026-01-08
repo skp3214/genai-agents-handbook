@@ -27,3 +27,7 @@
 - [Agent Observability](/03-agents/agent-observability.md)
 - [Agent Evaluation](/03-agents/agent-evaluation.md)
 - [Agent2Agent Protocol](/03-agents/agent2agent.md)
+
+### 05 - Model Context Protocol (MCP)
+
+- [MCP](/04-mcp/mcp.md)
