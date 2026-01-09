@@ -31,3 +31,4 @@
 ### 05 - Model Context Protocol (MCP)
 
 - [MCP](/04-mcp/mcp.md)
+- [MCP Demo in JavaScript](/04-mcp/demo/readme.md)
