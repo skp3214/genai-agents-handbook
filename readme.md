@@ -32,3 +32,7 @@
 
 - [MCP](/04-mcp/mcp.md)
 - [MCP Demo in JavaScript](/04-mcp/demo/readme.md)
+
+### 06 - Retrieval Augmented Generation (RAG)
+
+- [Embedding, Vectors, Databases](/05-rag/embedding-vectors-databases.md)
