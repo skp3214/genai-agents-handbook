@@ -36,3 +36,4 @@
 ### 06 - Retrieval Augmented Generation (RAG)
 
 - [Embedding, Vectors, Databases](/05-rag/embedding-vectors-databases.md)
+- [RAG : Chat with PDF - Demo in JavaScript](/05-rag/chatwithpdf/readme.md)
